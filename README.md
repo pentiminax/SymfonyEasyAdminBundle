@@ -1,0 +1,2 @@
+# SymfonyEasyAdminBundle
+ 
