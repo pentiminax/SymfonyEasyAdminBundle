@@ -1,4 +1,4 @@
-# Dépôt pour la création d'un gestionnaire de mot de passe en C#
+# Dépôt pour la création d'une interface d'administration avec EasyAdminBundle 4
 
 ### YouTube
 
